@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9CA8-D946
+
+ Directory of C:\Automation\Learning Git
+
+05/26/2020  03:57 PM    <DIR>          .
+05/26/2020  03:57 PM    <DIR>          ..
+05/26/2020  03:57 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  214,100,467,712 bytes free
